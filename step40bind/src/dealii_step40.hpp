@@ -72,6 +72,7 @@ namespace Step40
     LaplaceProblem();
 
     TimeMap run();
+    void setup_grid();
 
 
   //private:
@@ -308,13 +309,18 @@ namespace Step40
       "./", "solution", cycle, mpi_communicator, 2, 8);
   }
 
+  void LaplaceProblem<dim>::setup_grid(){
+    GridGenerator::hyper_cube(triangulation);
+    triangulation.refine_global(5);
+  }
+
 
 
 
   template <int dim>
   TimeMap LaplaceProblem<dim>::run()
   {
-    const unsigned int n_cycles = 2;
+    const unsigned int n_cycles = 25;
     std::vector<std::map< std::string, double >> output_times;
 
     for (unsigned int cycle = 0; cycle < n_cycles; ++cycle)
@@ -323,8 +329,7 @@ namespace Step40
 
         if (cycle == 0)
           {
-            GridGenerator::hyper_cube(triangulation);
-            triangulation.refine_global(5);
+            setup_grid();
           }
         else
           refine_grid();

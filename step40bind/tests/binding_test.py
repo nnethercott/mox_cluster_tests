@@ -6,13 +6,15 @@ from mpi4py import MPI
 comm = MPI.COMM_WORLD
 rank = comm.Get_rank()
 
-
 l = lp.LaplaceProblem()
 
-'''
-without binding the grid generator function in the run method we can't manually execute this;
-some solutions:
-    - just define a run_setup()
-    - bind the dealii function
-'''
-l.run()
+l.setup_grid()
+l.setup_system()
+l.assemble_system()
+l.solve()
+
+for i in range(num_cycles):
+    l.refine_grid()
+    l.setup_system()
+    l.assemble_system()
+    l.solve()

@@ -21,12 +21,13 @@ void step40bind(pybind11::module &module){
     .def("assemble_system", &Step40::LaplaceProblem<dim>::assemble_system)
     .def("solve", &Step40::LaplaceProblem<dim>::solve)
     .def("refine_grid", &Step40::LaplaceProblem<dim>::refine_grid)
+    .def("setup_grid", &Step40::LaplaceProblem<dim>::setup_grid)
     .def("output_results", &Step40::LaplaceProblem<dim>::output_results);
     //.def("run", &Step40::LaplaceProblem<dim>::run);
 }
 
 PYBIND11_MODULE(LaplaceProblem, m) {
-  step40bind<2>(m); //dimension 2 for fast sims
+  step40bind<3>(m); //dimension 2 for fast sims
 }
 
 /*
