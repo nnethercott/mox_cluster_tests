@@ -1,2 +1,7 @@
 /baseline/build/*
 .DS_Store
+/uncoupled/*
+/step40bind/cmake_install.cmake
+/step40bind/Makefile
+/step40bind/CMakeFiles/*
+/step40bind/build/*

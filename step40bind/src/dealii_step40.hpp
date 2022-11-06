@@ -25,20 +25,6 @@
 
 #include <deal.II/lac/generic_linear_algebra.h>
 
-/*
-namespace LA
-{
-#if defined(DEAL_II_WITH_PETSC) && !defined(DEAL_II_PETSC_WITH_COMPLEX) && \
-  !(defined(DEAL_II_WITH_TRILINOS) && defined(FORCE_USE_OF_TRILINOS))
-  using namespace dealii::LinearAlgebraPETSc;
-#  define USE_PETSC_LA
-#elif defined(DEAL_II_WITH_TRILINOS)
-  using namespace dealii::LinearAlgebraTrilinos;
-#else
-#  error DEAL_II_WITH_PETSC or DEAL_II_WITH_TRILINOS required
-#endif
-} // namespace LA
-*/
 
 namespace LA
 {
@@ -70,10 +56,13 @@ namespace LA
 
 #include <fstream>
 #include <iostream>
+#include <map>
+#include <string>
 
 namespace Step40
 {
   using namespace dealii;
+  typedef std::vector<std::map< std::string, double >> TimeMap;
 
 
   template <int dim>
@@ -82,8 +71,7 @@ namespace Step40
   public:
     LaplaceProblem();
 
-    void run();
-
+    TimeMap run();
 
 
   //private:
@@ -268,12 +256,11 @@ namespace Step40
     preconditioner.initialize(system_matrix, data);
 
     solver.solve(system_matrix,
-                 completely_distributed_solution,t
+                 completely_distributed_solution,
                  system_rhs,
                  preconditioner);
 
-    pcout << "   Solved in " << solver_control.last_step() << " iterations."
-          << std::endl;
+    //pcout << "   Solved in " << solver_control.last_step() << " iterations."<< std::endl;
 
     constraints.distribute(completely_distributed_solution);
 
@@ -325,21 +312,14 @@ namespace Step40
 
 
   template <int dim>
-  void LaplaceProblem<dim>::run()
+  TimeMap LaplaceProblem<dim>::run()
   {
-    pcout << "Running with "
-#ifdef USE_PETSC_LA
-          << "PETSc"
-#else
-          << "Trilinos"
-#endif
-          << " on " << Utilities::MPI::n_mpi_processes(mpi_communicator)
-          << " MPI rank(s)..." << std::endl;
-
     const unsigned int n_cycles = 2;
+    std::vector<std::map< std::string, double >> output_times;
+
     for (unsigned int cycle = 0; cycle < n_cycles; ++cycle)
       {
-        pcout << "Cycle " << cycle << ':' << std::endl;
+        //pcout << "Cycle " << cycle << ':' << std::endl;
 
         if (cycle == 0)
           {
@@ -351,10 +331,7 @@ namespace Step40
 
         setup_system();
 
-        pcout << "   Number of active cells:       "
-              << triangulation.n_global_active_cells() << std::endl
-              << "   Number of degrees of freedom: " << dof_handler.n_dofs()
-              << std::endl;
+        //pcout << "   Number of active cells:       " << triangulation.n_global_active_cells() << std::endl << "   Number of degrees of freedom: " << dof_handler.n_dofs() << std::endl;
 
         assemble_system();
         solve();
@@ -364,16 +341,24 @@ namespace Step40
           //output_results(cycle); //exporting the results
         }
 
-        computing_timer.print_summary();
+        //added by nate
+
+        TimerOutput::OutputData o = TimerOutput::OutputData::total_wall_time;
+        auto m = computing_timer.get_summary_data(o);
+        output_times.push_back(m);
+
+        //computing_timer.print_summary();
         computing_timer.reset();
 
-        pcout << std::endl;
+        //pcout << std::endl;
       }
+
+      return output_times;
   }
 } // namespace Step40
 
 
-
+/*
 int main(int argc, char *argv[])
 {
   //this 100% is not the same main as the original tutorial online
@@ -383,14 +368,17 @@ int main(int argc, char *argv[])
   Utilities::MPI::MPI_InitFinalize mpi_initialization(argc, argv, 1);
 
   LaplaceProblem<2> laplace_problem_2d;
+  laplace_problem_2d.run();
 
   //cycle 0
-  GridGenerator::hyper_cube(laplace_problem_2d.triangulation);
-  laplace_problem_2d.triangulation.refine_global(5);
+  //GridGenerator::hyper_cube(laplace_problem_2d.triangulation);
+  //laplace_problem_2d.triangulation.refine_global(5);
 
   //setup
-  laplace_problem_2d.setup_system();
+  //laplace_problem_2d.setup_system();
 }
+*/
+
 
 /*
 int main(int argc, char *argv[])
