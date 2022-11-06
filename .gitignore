@@ -5,3 +5,4 @@
 /step40bind/Makefile
 /step40bind/CMakeFiles/*
 /step40bind/build/*
+/step40bind/.DS_Store
