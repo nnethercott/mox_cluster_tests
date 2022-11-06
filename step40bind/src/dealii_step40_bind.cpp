@@ -27,7 +27,7 @@ void step40bind(pybind11::module &module){
 }
 
 PYBIND11_MODULE(LaplaceProblem, m) {
-  step40bind<3>(m); //dimension 2 for fast sims
+  step40bind<2>(m); //dimension 2 for fast sims
 }
 
 /*

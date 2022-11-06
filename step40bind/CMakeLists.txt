@@ -17,13 +17,16 @@ deal_ii_initialize_cached_variables()
 ################### pybind11 ##################################
 include_directories(SYSTEM pybind11/include)
 include_directories(SYSTEM $ENV{mkPythonInc})
-add_subdirectory(/root/lifex_mnt/pyfex/pybind11 ../)
+add_subdirectory(/mnt/c/Users/naten/pyfex/pybind11 ../)
 set(PYBIND11_LTO_CXX_FLAGS "OFF" CACHE INTERNAL "")
 set(PYBIND11_LTO_LINKER_FLAGS "OFF" CACHE INTERNAL "")
 
 ##############################################################
-ADD_EXECUTABLE(sim ./tests/test.cpp)
-DEAL_II_SETUP_TARGET(sim)
+ADD_EXECUTABLE(sim1 ./tests/test_parallel_effects.cpp)
+DEAL_II_SETUP_TARGET(sim1)
 
-#pybind11_add_module(LaplaceProblem ./src/dealii_step40_bind.cpp)
-#DEAL_II_SETUP_TARGET(LaplaceProblem)
+ADD_EXECUTABLE(sim2 ./tests/test_cpp_vs_pybind.cpp)
+DEAL_II_SETUP_TARGET(sim2)
+
+pybind11_add_module(LaplaceProblem ./src/dealii_step40_bind.cpp)
+DEAL_II_SETUP_TARGET(LaplaceProblem)

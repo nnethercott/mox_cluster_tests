@@ -10,10 +10,10 @@
 
 int main(int argc, char *argv[]){
   dealii::Utilities::MPI::MPI_InitFinalize mpi_initialization(argc, argv, 1);
-  Step40::LaplaceProblem<3> l;
+  Step40::LaplaceProblem<2> l;
 
   //--------------------- simulation ----------------------------------
-  int num_cycles = 25;
+  int num_cycles = 5;
   auto t1 = std::chrono::high_resolution_clock::now();
 
   l.setup_grid();
@@ -29,10 +29,12 @@ int main(int argc, char *argv[]){
   }
 
   auto t2 = std::chrono::high_resolution_clock::now();
-  auto diff = std::chrono::duration<double>(t2 - t1);
-  double elapsed = 1000*diff.count();
 
-  //what if we reduced and took the maximal runtime
+  //--------------------- output ----------------------------------
+  auto diff = std::chrono::duration<double>(t2 - t1);
+  double elapsed = diff.count();
+
+
   double average_process_runtime;
   MPI_Reduce(&elapsed, &average_process_runtime, 1, MPI_DOUBLE, MPI_SUM, 0, MPI_COMM_WORLD);
 
