@@ -311,6 +311,7 @@ namespace Step40
 
   template <int dim>
   void LaplaceProblem<dim>::setup_grid(){
+    TimerOutput::Scope t(computing_timer, "grid");
     GridGenerator::hyper_cube(triangulation);
     triangulation.refine_global(5);
   }
