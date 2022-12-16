@@ -1,0 +1,2175 @@
+Into p4est_new with min quadrants 0 level 0 uniform 1
+New p4est with 1 trees on 1 processors
+Initial level 0 potential global quadrants 1 per tree 1
+Done p4est_new with 1 total quadrants
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1 total quadrants, allowed level 29
+Done p4est_refine with 4 total quadrants
+Into p4est_coarsen with 4 total quadrants
+Done p4est_coarsen with 4 total quadrants
+Into p4est_balance CORNER with 4 total quadrants
+Done p4est_balance with 4 total quadrants
+Into p4est_partition with 4 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 4 total quadrants, allowed level 29
+Done p4est_refine with 16 total quadrants
+Into p4est_coarsen with 16 total quadrants
+Done p4est_coarsen with 16 total quadrants
+Into p4est_balance CORNER with 16 total quadrants
+Done p4est_balance with 16 total quadrants
+Into p4est_partition with 16 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 16 total quadrants, allowed level 29
+Done p4est_refine with 64 total quadrants
+Into p4est_coarsen with 64 total quadrants
+Done p4est_coarsen with 64 total quadrants
+Into p4est_balance CORNER with 64 total quadrants
+Done p4est_balance with 64 total quadrants
+Into p4est_partition with 64 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 64 total quadrants, allowed level 29
+Done p4est_refine with 256 total quadrants
+Into p4est_coarsen with 256 total quadrants
+Done p4est_coarsen with 256 total quadrants
+Into p4est_balance CORNER with 256 total quadrants
+Done p4est_balance with 256 total quadrants
+Into p4est_partition with 256 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 256 total quadrants, allowed level 29
+Done p4est_refine with 1024 total quadrants
+Into p4est_coarsen with 1024 total quadrants
+Done p4est_coarsen with 1024 total quadrants
+Into p4est_balance CORNER with 1024 total quadrants
+Done p4est_balance with 1024 total quadrants
+Into p4est_partition with 1024 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1024 total quadrants, allowed level 29
+Done p4est_refine with 1966 total quadrants
+Into p4est_coarsen with 1966 total quadrants
+Done p4est_coarsen with 1966 total quadrants
+Into p4est_balance CORNER with 1966 total quadrants
+Done p4est_balance with 1966 total quadrants
+Into p4est_partition with 1966 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1966 total quadrants, allowed level 29
+Done p4est_refine with 3676 total quadrants
+Into p4est_coarsen with 3676 total quadrants
+Done p4est_coarsen with 3676 total quadrants
+Into p4est_balance CORNER with 3676 total quadrants
+Done p4est_balance with 3676 total quadrants
+Into p4est_partition with 3676 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 3676 total quadrants, allowed level 29
+Done p4est_refine with 7126 total quadrants
+Into p4est_coarsen with 7126 total quadrants
+Done p4est_coarsen with 7114 total quadrants
+Into p4est_balance CORNER with 7114 total quadrants
+Done p4est_balance with 7114 total quadrants
+Into p4est_partition with 7114 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+[15.7794995]
+Into p4est_new with min quadrants 0 level 0 uniform 1
+New p4est with 1 trees on 1 processors
+Initial level 0 potential global quadrants 1 per tree 1
+Done p4est_new with 1 total quadrants
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1 total quadrants, allowed level 29
+Done p4est_refine with 4 total quadrants
+Into p4est_coarsen with 4 total quadrants
+Done p4est_coarsen with 4 total quadrants
+Into p4est_balance CORNER with 4 total quadrants
+Done p4est_balance with 4 total quadrants
+Into p4est_partition with 4 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 4 total quadrants, allowed level 29
+Done p4est_refine with 16 total quadrants
+Into p4est_coarsen with 16 total quadrants
+Done p4est_coarsen with 16 total quadrants
+Into p4est_balance CORNER with 16 total quadrants
+Done p4est_balance with 16 total quadrants
+Into p4est_partition with 16 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 16 total quadrants, allowed level 29
+Done p4est_refine with 64 total quadrants
+Into p4est_coarsen with 64 total quadrants
+Done p4est_coarsen with 64 total quadrants
+Into p4est_balance CORNER with 64 total quadrants
+Done p4est_balance with 64 total quadrants
+Into p4est_partition with 64 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 64 total quadrants, allowed level 29
+Done p4est_refine with 256 total quadrants
+Into p4est_coarsen with 256 total quadrants
+Done p4est_coarsen with 256 total quadrants
+Into p4est_balance CORNER with 256 total quadrants
+Done p4est_balance with 256 total quadrants
+Into p4est_partition with 256 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 256 total quadrants, allowed level 29
+Done p4est_refine with 1024 total quadrants
+Into p4est_coarsen with 1024 total quadrants
+Done p4est_coarsen with 1024 total quadrants
+Into p4est_balance CORNER with 1024 total quadrants
+Done p4est_balance with 1024 total quadrants
+Into p4est_partition with 1024 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1024 total quadrants, allowed level 29
+Done p4est_refine with 1966 total quadrants
+Into p4est_coarsen with 1966 total quadrants
+Done p4est_coarsen with 1966 total quadrants
+Into p4est_balance CORNER with 1966 total quadrants
+Done p4est_balance with 1966 total quadrants
+Into p4est_partition with 1966 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1966 total quadrants, allowed level 29
+Done p4est_refine with 3676 total quadrants
+Into p4est_coarsen with 3676 total quadrants
+Done p4est_coarsen with 3676 total quadrants
+Into p4est_balance CORNER with 3676 total quadrants
+Done p4est_balance with 3676 total quadrants
+Into p4est_partition with 3676 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 3676 total quadrants, allowed level 29
+Done p4est_refine with 7126 total quadrants
+Into p4est_coarsen with 7126 total quadrants
+Done p4est_coarsen with 7114 total quadrants
+Into p4est_balance CORNER with 7114 total quadrants
+Done p4est_balance with 7114 total quadrants
+Into p4est_partition with 7114 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+[15.9747499]
+Into p4est_new with min quadrants 0 level 0 uniform 1
+New p4est with 1 trees on 1 processors
+Initial level 0 potential global quadrants 1 per tree 1
+Done p4est_new with 1 total quadrants
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1 total quadrants, allowed level 29
+Done p4est_refine with 4 total quadrants
+Into p4est_coarsen with 4 total quadrants
+Done p4est_coarsen with 4 total quadrants
+Into p4est_balance CORNER with 4 total quadrants
+Done p4est_balance with 4 total quadrants
+Into p4est_partition with 4 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 4 total quadrants, allowed level 29
+Done p4est_refine with 16 total quadrants
+Into p4est_coarsen with 16 total quadrants
+Done p4est_coarsen with 16 total quadrants
+Into p4est_balance CORNER with 16 total quadrants
+Done p4est_balance with 16 total quadrants
+Into p4est_partition with 16 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 16 total quadrants, allowed level 29
+Done p4est_refine with 64 total quadrants
+Into p4est_coarsen with 64 total quadrants
+Done p4est_coarsen with 64 total quadrants
+Into p4est_balance CORNER with 64 total quadrants
+Done p4est_balance with 64 total quadrants
+Into p4est_partition with 64 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 64 total quadrants, allowed level 29
+Done p4est_refine with 256 total quadrants
+Into p4est_coarsen with 256 total quadrants
+Done p4est_coarsen with 256 total quadrants
+Into p4est_balance CORNER with 256 total quadrants
+Done p4est_balance with 256 total quadrants
+Into p4est_partition with 256 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 256 total quadrants, allowed level 29
+Done p4est_refine with 1024 total quadrants
+Into p4est_coarsen with 1024 total quadrants
+Done p4est_coarsen with 1024 total quadrants
+Into p4est_balance CORNER with 1024 total quadrants
+Done p4est_balance with 1024 total quadrants
+Into p4est_partition with 1024 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1024 total quadrants, allowed level 29
+Done p4est_refine with 1966 total quadrants
+Into p4est_coarsen with 1966 total quadrants
+Done p4est_coarsen with 1966 total quadrants
+Into p4est_balance CORNER with 1966 total quadrants
+Done p4est_balance with 1966 total quadrants
+Into p4est_partition with 1966 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1966 total quadrants, allowed level 29
+Done p4est_refine with 3676 total quadrants
+Into p4est_coarsen with 3676 total quadrants
+Done p4est_coarsen with 3676 total quadrants
+Into p4est_balance CORNER with 3676 total quadrants
+Done p4est_balance with 3676 total quadrants
+Into p4est_partition with 3676 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 3676 total quadrants, allowed level 29
+Done p4est_refine with 7126 total quadrants
+Into p4est_coarsen with 7126 total quadrants
+Done p4est_coarsen with 7114 total quadrants
+Into p4est_balance CORNER with 7114 total quadrants
+Done p4est_balance with 7114 total quadrants
+Into p4est_partition with 7114 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+[15.0060172]
+Into p4est_new with min quadrants 0 level 0 uniform 1
+New p4est with 1 trees on 1 processors
+Initial level 0 potential global quadrants 1 per tree 1
+Done p4est_new with 1 total quadrants
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1 total quadrants, allowed level 29
+Done p4est_refine with 4 total quadrants
+Into p4est_coarsen with 4 total quadrants
+Done p4est_coarsen with 4 total quadrants
+Into p4est_balance CORNER with 4 total quadrants
+Done p4est_balance with 4 total quadrants
+Into p4est_partition with 4 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 4 total quadrants, allowed level 29
+Done p4est_refine with 16 total quadrants
+Into p4est_coarsen with 16 total quadrants
+Done p4est_coarsen with 16 total quadrants
+Into p4est_balance CORNER with 16 total quadrants
+Done p4est_balance with 16 total quadrants
+Into p4est_partition with 16 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 16 total quadrants, allowed level 29
+Done p4est_refine with 64 total quadrants
+Into p4est_coarsen with 64 total quadrants
+Done p4est_coarsen with 64 total quadrants
+Into p4est_balance CORNER with 64 total quadrants
+Done p4est_balance with 64 total quadrants
+Into p4est_partition with 64 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 64 total quadrants, allowed level 29
+Done p4est_refine with 256 total quadrants
+Into p4est_coarsen with 256 total quadrants
+Done p4est_coarsen with 256 total quadrants
+Into p4est_balance CORNER with 256 total quadrants
+Done p4est_balance with 256 total quadrants
+Into p4est_partition with 256 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 256 total quadrants, allowed level 29
+Done p4est_refine with 1024 total quadrants
+Into p4est_coarsen with 1024 total quadrants
+Done p4est_coarsen with 1024 total quadrants
+Into p4est_balance CORNER with 1024 total quadrants
+Done p4est_balance with 1024 total quadrants
+Into p4est_partition with 1024 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1024 total quadrants, allowed level 29
+Done p4est_refine with 1966 total quadrants
+Into p4est_coarsen with 1966 total quadrants
+Done p4est_coarsen with 1966 total quadrants
+Into p4est_balance CORNER with 1966 total quadrants
+Done p4est_balance with 1966 total quadrants
+Into p4est_partition with 1966 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1966 total quadrants, allowed level 29
+Done p4est_refine with 3676 total quadrants
+Into p4est_coarsen with 3676 total quadrants
+Done p4est_coarsen with 3676 total quadrants
+Into p4est_balance CORNER with 3676 total quadrants
+Done p4est_balance with 3676 total quadrants
+Into p4est_partition with 3676 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 3676 total quadrants, allowed level 29
+Done p4est_refine with 7126 total quadrants
+Into p4est_coarsen with 7126 total quadrants
+Done p4est_coarsen with 7114 total quadrants
+Into p4est_balance CORNER with 7114 total quadrants
+Done p4est_balance with 7114 total quadrants
+Into p4est_partition with 7114 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+[15.0912474]
+Into p4est_new with min quadrants 0 level 0 uniform 1
+New p4est with 1 trees on 1 processors
+Initial level 0 potential global quadrants 1 per tree 1
+Done p4est_new with 1 total quadrants
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1 total quadrants, allowed level 29
+Done p4est_refine with 4 total quadrants
+Into p4est_coarsen with 4 total quadrants
+Done p4est_coarsen with 4 total quadrants
+Into p4est_balance CORNER with 4 total quadrants
+Done p4est_balance with 4 total quadrants
+Into p4est_partition with 4 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 4 total quadrants, allowed level 29
+Done p4est_refine with 16 total quadrants
+Into p4est_coarsen with 16 total quadrants
+Done p4est_coarsen with 16 total quadrants
+Into p4est_balance CORNER with 16 total quadrants
+Done p4est_balance with 16 total quadrants
+Into p4est_partition with 16 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 16 total quadrants, allowed level 29
+Done p4est_refine with 64 total quadrants
+Into p4est_coarsen with 64 total quadrants
+Done p4est_coarsen with 64 total quadrants
+Into p4est_balance CORNER with 64 total quadrants
+Done p4est_balance with 64 total quadrants
+Into p4est_partition with 64 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 64 total quadrants, allowed level 29
+Done p4est_refine with 256 total quadrants
+Into p4est_coarsen with 256 total quadrants
+Done p4est_coarsen with 256 total quadrants
+Into p4est_balance CORNER with 256 total quadrants
+Done p4est_balance with 256 total quadrants
+Into p4est_partition with 256 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 256 total quadrants, allowed level 29
+Done p4est_refine with 1024 total quadrants
+Into p4est_coarsen with 1024 total quadrants
+Done p4est_coarsen with 1024 total quadrants
+Into p4est_balance CORNER with 1024 total quadrants
+Done p4est_balance with 1024 total quadrants
+Into p4est_partition with 1024 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1024 total quadrants, allowed level 29
+Done p4est_refine with 1966 total quadrants
+Into p4est_coarsen with 1966 total quadrants
+Done p4est_coarsen with 1966 total quadrants
+Into p4est_balance CORNER with 1966 total quadrants
+Done p4est_balance with 1966 total quadrants
+Into p4est_partition with 1966 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1966 total quadrants, allowed level 29
+Done p4est_refine with 3676 total quadrants
+Into p4est_coarsen with 3676 total quadrants
+Done p4est_coarsen with 3676 total quadrants
+Into p4est_balance CORNER with 3676 total quadrants
+Done p4est_balance with 3676 total quadrants
+Into p4est_partition with 3676 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 3676 total quadrants, allowed level 29
+Done p4est_refine with 7126 total quadrants
+Into p4est_coarsen with 7126 total quadrants
+Done p4est_coarsen with 7114 total quadrants
+Into p4est_balance CORNER with 7114 total quadrants
+Done p4est_balance with 7114 total quadrants
+Into p4est_partition with 7114 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+[15.0091371]
+Into p4est_new with min quadrants 0 level 0 uniform 1
+New p4est with 1 trees on 1 processors
+Initial level 0 potential global quadrants 1 per tree 1
+Done p4est_new with 1 total quadrants
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1 total quadrants, allowed level 29
+Done p4est_refine with 4 total quadrants
+Into p4est_coarsen with 4 total quadrants
+Done p4est_coarsen with 4 total quadrants
+Into p4est_balance CORNER with 4 total quadrants
+Done p4est_balance with 4 total quadrants
+Into p4est_partition with 4 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 4 total quadrants, allowed level 29
+Done p4est_refine with 16 total quadrants
+Into p4est_coarsen with 16 total quadrants
+Done p4est_coarsen with 16 total quadrants
+Into p4est_balance CORNER with 16 total quadrants
+Done p4est_balance with 16 total quadrants
+Into p4est_partition with 16 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 16 total quadrants, allowed level 29
+Done p4est_refine with 64 total quadrants
+Into p4est_coarsen with 64 total quadrants
+Done p4est_coarsen with 64 total quadrants
+Into p4est_balance CORNER with 64 total quadrants
+Done p4est_balance with 64 total quadrants
+Into p4est_partition with 64 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 64 total quadrants, allowed level 29
+Done p4est_refine with 256 total quadrants
+Into p4est_coarsen with 256 total quadrants
+Done p4est_coarsen with 256 total quadrants
+Into p4est_balance CORNER with 256 total quadrants
+Done p4est_balance with 256 total quadrants
+Into p4est_partition with 256 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 256 total quadrants, allowed level 29
+Done p4est_refine with 1024 total quadrants
+Into p4est_coarsen with 1024 total quadrants
+Done p4est_coarsen with 1024 total quadrants
+Into p4est_balance CORNER with 1024 total quadrants
+Done p4est_balance with 1024 total quadrants
+Into p4est_partition with 1024 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1024 total quadrants, allowed level 29
+Done p4est_refine with 1966 total quadrants
+Into p4est_coarsen with 1966 total quadrants
+Done p4est_coarsen with 1966 total quadrants
+Into p4est_balance CORNER with 1966 total quadrants
+Done p4est_balance with 1966 total quadrants
+Into p4est_partition with 1966 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1966 total quadrants, allowed level 29
+Done p4est_refine with 3676 total quadrants
+Into p4est_coarsen with 3676 total quadrants
+Done p4est_coarsen with 3676 total quadrants
+Into p4est_balance CORNER with 3676 total quadrants
+Done p4est_balance with 3676 total quadrants
+Into p4est_partition with 3676 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 3676 total quadrants, allowed level 29
+Done p4est_refine with 7126 total quadrants
+Into p4est_coarsen with 7126 total quadrants
+Done p4est_coarsen with 7114 total quadrants
+Into p4est_balance CORNER with 7114 total quadrants
+Done p4est_balance with 7114 total quadrants
+Into p4est_partition with 7114 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+[15.3530564]
+Into p4est_new with min quadrants 0 level 0 uniform 1
+New p4est with 1 trees on 1 processors
+Initial level 0 potential global quadrants 1 per tree 1
+Done p4est_new with 1 total quadrants
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1 total quadrants, allowed level 29
+Done p4est_refine with 4 total quadrants
+Into p4est_coarsen with 4 total quadrants
+Done p4est_coarsen with 4 total quadrants
+Into p4est_balance CORNER with 4 total quadrants
+Done p4est_balance with 4 total quadrants
+Into p4est_partition with 4 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 4 total quadrants, allowed level 29
+Done p4est_refine with 16 total quadrants
+Into p4est_coarsen with 16 total quadrants
+Done p4est_coarsen with 16 total quadrants
+Into p4est_balance CORNER with 16 total quadrants
+Done p4est_balance with 16 total quadrants
+Into p4est_partition with 16 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 16 total quadrants, allowed level 29
+Done p4est_refine with 64 total quadrants
+Into p4est_coarsen with 64 total quadrants
+Done p4est_coarsen with 64 total quadrants
+Into p4est_balance CORNER with 64 total quadrants
+Done p4est_balance with 64 total quadrants
+Into p4est_partition with 64 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 64 total quadrants, allowed level 29
+Done p4est_refine with 256 total quadrants
+Into p4est_coarsen with 256 total quadrants
+Done p4est_coarsen with 256 total quadrants
+Into p4est_balance CORNER with 256 total quadrants
+Done p4est_balance with 256 total quadrants
+Into p4est_partition with 256 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 256 total quadrants, allowed level 29
+Done p4est_refine with 1024 total quadrants
+Into p4est_coarsen with 1024 total quadrants
+Done p4est_coarsen with 1024 total quadrants
+Into p4est_balance CORNER with 1024 total quadrants
+Done p4est_balance with 1024 total quadrants
+Into p4est_partition with 1024 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1024 total quadrants, allowed level 29
+Done p4est_refine with 1966 total quadrants
+Into p4est_coarsen with 1966 total quadrants
+Done p4est_coarsen with 1966 total quadrants
+Into p4est_balance CORNER with 1966 total quadrants
+Done p4est_balance with 1966 total quadrants
+Into p4est_partition with 1966 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1966 total quadrants, allowed level 29
+Done p4est_refine with 3676 total quadrants
+Into p4est_coarsen with 3676 total quadrants
+Done p4est_coarsen with 3676 total quadrants
+Into p4est_balance CORNER with 3676 total quadrants
+Done p4est_balance with 3676 total quadrants
+Into p4est_partition with 3676 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 3676 total quadrants, allowed level 29
+Done p4est_refine with 7126 total quadrants
+Into p4est_coarsen with 7126 total quadrants
+Done p4est_coarsen with 7114 total quadrants
+Into p4est_balance CORNER with 7114 total quadrants
+Done p4est_balance with 7114 total quadrants
+Into p4est_partition with 7114 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+[19.0475641]
+Into p4est_new with min quadrants 0 level 0 uniform 1
+New p4est with 1 trees on 1 processors
+Initial level 0 potential global quadrants 1 per tree 1
+Done p4est_new with 1 total quadrants
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1 total quadrants, allowed level 29
+Done p4est_refine with 4 total quadrants
+Into p4est_coarsen with 4 total quadrants
+Done p4est_coarsen with 4 total quadrants
+Into p4est_balance CORNER with 4 total quadrants
+Done p4est_balance with 4 total quadrants
+Into p4est_partition with 4 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 4 total quadrants, allowed level 29
+Done p4est_refine with 16 total quadrants
+Into p4est_coarsen with 16 total quadrants
+Done p4est_coarsen with 16 total quadrants
+Into p4est_balance CORNER with 16 total quadrants
+Done p4est_balance with 16 total quadrants
+Into p4est_partition with 16 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 16 total quadrants, allowed level 29
+Done p4est_refine with 64 total quadrants
+Into p4est_coarsen with 64 total quadrants
+Done p4est_coarsen with 64 total quadrants
+Into p4est_balance CORNER with 64 total quadrants
+Done p4est_balance with 64 total quadrants
+Into p4est_partition with 64 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 64 total quadrants, allowed level 29
+Done p4est_refine with 256 total quadrants
+Into p4est_coarsen with 256 total quadrants
+Done p4est_coarsen with 256 total quadrants
+Into p4est_balance CORNER with 256 total quadrants
+Done p4est_balance with 256 total quadrants
+Into p4est_partition with 256 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 256 total quadrants, allowed level 29
+Done p4est_refine with 1024 total quadrants
+Into p4est_coarsen with 1024 total quadrants
+Done p4est_coarsen with 1024 total quadrants
+Into p4est_balance CORNER with 1024 total quadrants
+Done p4est_balance with 1024 total quadrants
+Into p4est_partition with 1024 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1024 total quadrants, allowed level 29
+Done p4est_refine with 1966 total quadrants
+Into p4est_coarsen with 1966 total quadrants
+Done p4est_coarsen with 1966 total quadrants
+Into p4est_balance CORNER with 1966 total quadrants
+Done p4est_balance with 1966 total quadrants
+Into p4est_partition with 1966 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1966 total quadrants, allowed level 29
+Done p4est_refine with 3676 total quadrants
+Into p4est_coarsen with 3676 total quadrants
+Done p4est_coarsen with 3676 total quadrants
+Into p4est_balance CORNER with 3676 total quadrants
+Done p4est_balance with 3676 total quadrants
+Into p4est_partition with 3676 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 3676 total quadrants, allowed level 29
+Done p4est_refine with 7126 total quadrants
+Into p4est_coarsen with 7126 total quadrants
+Done p4est_coarsen with 7114 total quadrants
+Into p4est_balance CORNER with 7114 total quadrants
+Done p4est_balance with 7114 total quadrants
+Into p4est_partition with 7114 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+[18.5294538]
+Into p4est_new with min quadrants 0 level 0 uniform 1
+New p4est with 1 trees on 1 processors
+Initial level 0 potential global quadrants 1 per tree 1
+Done p4est_new with 1 total quadrants
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1 total quadrants, allowed level 29
+Done p4est_refine with 4 total quadrants
+Into p4est_coarsen with 4 total quadrants
+Done p4est_coarsen with 4 total quadrants
+Into p4est_balance CORNER with 4 total quadrants
+Done p4est_balance with 4 total quadrants
+Into p4est_partition with 4 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 4 total quadrants, allowed level 29
+Done p4est_refine with 16 total quadrants
+Into p4est_coarsen with 16 total quadrants
+Done p4est_coarsen with 16 total quadrants
+Into p4est_balance CORNER with 16 total quadrants
+Done p4est_balance with 16 total quadrants
+Into p4est_partition with 16 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 16 total quadrants, allowed level 29
+Done p4est_refine with 64 total quadrants
+Into p4est_coarsen with 64 total quadrants
+Done p4est_coarsen with 64 total quadrants
+Into p4est_balance CORNER with 64 total quadrants
+Done p4est_balance with 64 total quadrants
+Into p4est_partition with 64 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 64 total quadrants, allowed level 29
+Done p4est_refine with 256 total quadrants
+Into p4est_coarsen with 256 total quadrants
+Done p4est_coarsen with 256 total quadrants
+Into p4est_balance CORNER with 256 total quadrants
+Done p4est_balance with 256 total quadrants
+Into p4est_partition with 256 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 256 total quadrants, allowed level 29
+Done p4est_refine with 1024 total quadrants
+Into p4est_coarsen with 1024 total quadrants
+Done p4est_coarsen with 1024 total quadrants
+Into p4est_balance CORNER with 1024 total quadrants
+Done p4est_balance with 1024 total quadrants
+Into p4est_partition with 1024 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1024 total quadrants, allowed level 29
+Done p4est_refine with 1966 total quadrants
+Into p4est_coarsen with 1966 total quadrants
+Done p4est_coarsen with 1966 total quadrants
+Into p4est_balance CORNER with 1966 total quadrants
+Done p4est_balance with 1966 total quadrants
+Into p4est_partition with 1966 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1966 total quadrants, allowed level 29
+Done p4est_refine with 3676 total quadrants
+Into p4est_coarsen with 3676 total quadrants
+Done p4est_coarsen with 3676 total quadrants
+Into p4est_balance CORNER with 3676 total quadrants
+Done p4est_balance with 3676 total quadrants
+Into p4est_partition with 3676 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 3676 total quadrants, allowed level 29
+Done p4est_refine with 7126 total quadrants
+Into p4est_coarsen with 7126 total quadrants
+Done p4est_coarsen with 7114 total quadrants
+Into p4est_balance CORNER with 7114 total quadrants
+Done p4est_balance with 7114 total quadrants
+Into p4est_partition with 7114 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+[20.3931976]
+Into p4est_new with min quadrants 0 level 0 uniform 1
+New p4est with 1 trees on 1 processors
+Initial level 0 potential global quadrants 1 per tree 1
+Done p4est_new with 1 total quadrants
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1 total quadrants, allowed level 29
+Done p4est_refine with 4 total quadrants
+Into p4est_coarsen with 4 total quadrants
+Done p4est_coarsen with 4 total quadrants
+Into p4est_balance CORNER with 4 total quadrants
+Done p4est_balance with 4 total quadrants
+Into p4est_partition with 4 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 4 total quadrants, allowed level 29
+Done p4est_refine with 16 total quadrants
+Into p4est_coarsen with 16 total quadrants
+Done p4est_coarsen with 16 total quadrants
+Into p4est_balance CORNER with 16 total quadrants
+Done p4est_balance with 16 total quadrants
+Into p4est_partition with 16 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 16 total quadrants, allowed level 29
+Done p4est_refine with 64 total quadrants
+Into p4est_coarsen with 64 total quadrants
+Done p4est_coarsen with 64 total quadrants
+Into p4est_balance CORNER with 64 total quadrants
+Done p4est_balance with 64 total quadrants
+Into p4est_partition with 64 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 64 total quadrants, allowed level 29
+Done p4est_refine with 256 total quadrants
+Into p4est_coarsen with 256 total quadrants
+Done p4est_coarsen with 256 total quadrants
+Into p4est_balance CORNER with 256 total quadrants
+Done p4est_balance with 256 total quadrants
+Into p4est_partition with 256 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 256 total quadrants, allowed level 29
+Done p4est_refine with 1024 total quadrants
+Into p4est_coarsen with 1024 total quadrants
+Done p4est_coarsen with 1024 total quadrants
+Into p4est_balance CORNER with 1024 total quadrants
+Done p4est_balance with 1024 total quadrants
+Into p4est_partition with 1024 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1024 total quadrants, allowed level 29
+Done p4est_refine with 1966 total quadrants
+Into p4est_coarsen with 1966 total quadrants
+Done p4est_coarsen with 1966 total quadrants
+Into p4est_balance CORNER with 1966 total quadrants
+Done p4est_balance with 1966 total quadrants
+Into p4est_partition with 1966 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1966 total quadrants, allowed level 29
+Done p4est_refine with 3676 total quadrants
+Into p4est_coarsen with 3676 total quadrants
+Done p4est_coarsen with 3676 total quadrants
+Into p4est_balance CORNER with 3676 total quadrants
+Done p4est_balance with 3676 total quadrants
+Into p4est_partition with 3676 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 3676 total quadrants, allowed level 29
+Done p4est_refine with 7126 total quadrants
+Into p4est_coarsen with 7126 total quadrants
+Done p4est_coarsen with 7114 total quadrants
+Into p4est_balance CORNER with 7114 total quadrants
+Done p4est_balance with 7114 total quadrants
+Into p4est_partition with 7114 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+[22.0965793]
+Into p4est_new with min quadrants 0 level 0 uniform 1
+New p4est with 1 trees on 1 processors
+Initial level 0 potential global quadrants 1 per tree 1
+Done p4est_new with 1 total quadrants
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1 total quadrants, allowed level 29
+Done p4est_refine with 4 total quadrants
+Into p4est_coarsen with 4 total quadrants
+Done p4est_coarsen with 4 total quadrants
+Into p4est_balance CORNER with 4 total quadrants
+Done p4est_balance with 4 total quadrants
+Into p4est_partition with 4 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 4 total quadrants, allowed level 29
+Done p4est_refine with 16 total quadrants
+Into p4est_coarsen with 16 total quadrants
+Done p4est_coarsen with 16 total quadrants
+Into p4est_balance CORNER with 16 total quadrants
+Done p4est_balance with 16 total quadrants
+Into p4est_partition with 16 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 16 total quadrants, allowed level 29
+Done p4est_refine with 64 total quadrants
+Into p4est_coarsen with 64 total quadrants
+Done p4est_coarsen with 64 total quadrants
+Into p4est_balance CORNER with 64 total quadrants
+Done p4est_balance with 64 total quadrants
+Into p4est_partition with 64 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 64 total quadrants, allowed level 29
+Done p4est_refine with 256 total quadrants
+Into p4est_coarsen with 256 total quadrants
+Done p4est_coarsen with 256 total quadrants
+Into p4est_balance CORNER with 256 total quadrants
+Done p4est_balance with 256 total quadrants
+Into p4est_partition with 256 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 256 total quadrants, allowed level 29
+Done p4est_refine with 1024 total quadrants
+Into p4est_coarsen with 1024 total quadrants
+Done p4est_coarsen with 1024 total quadrants
+Into p4est_balance CORNER with 1024 total quadrants
+Done p4est_balance with 1024 total quadrants
+Into p4est_partition with 1024 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1024 total quadrants, allowed level 29
+Done p4est_refine with 1966 total quadrants
+Into p4est_coarsen with 1966 total quadrants
+Done p4est_coarsen with 1966 total quadrants
+Into p4est_balance CORNER with 1966 total quadrants
+Done p4est_balance with 1966 total quadrants
+Into p4est_partition with 1966 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1966 total quadrants, allowed level 29
+Done p4est_refine with 3676 total quadrants
+Into p4est_coarsen with 3676 total quadrants
+Done p4est_coarsen with 3676 total quadrants
+Into p4est_balance CORNER with 3676 total quadrants
+Done p4est_balance with 3676 total quadrants
+Into p4est_partition with 3676 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 3676 total quadrants, allowed level 29
+Done p4est_refine with 7126 total quadrants
+Into p4est_coarsen with 7126 total quadrants
+Done p4est_coarsen with 7114 total quadrants
+Into p4est_balance CORNER with 7114 total quadrants
+Done p4est_balance with 7114 total quadrants
+Into p4est_partition with 7114 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+[19.6587599]
+Into p4est_new with min quadrants 0 level 0 uniform 1
+New p4est with 1 trees on 1 processors
+Initial level 0 potential global quadrants 1 per tree 1
+Done p4est_new with 1 total quadrants
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1 total quadrants, allowed level 29
+Done p4est_refine with 4 total quadrants
+Into p4est_coarsen with 4 total quadrants
+Done p4est_coarsen with 4 total quadrants
+Into p4est_balance CORNER with 4 total quadrants
+Done p4est_balance with 4 total quadrants
+Into p4est_partition with 4 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 4 total quadrants, allowed level 29
+Done p4est_refine with 16 total quadrants
+Into p4est_coarsen with 16 total quadrants
+Done p4est_coarsen with 16 total quadrants
+Into p4est_balance CORNER with 16 total quadrants
+Done p4est_balance with 16 total quadrants
+Into p4est_partition with 16 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 16 total quadrants, allowed level 29
+Done p4est_refine with 64 total quadrants
+Into p4est_coarsen with 64 total quadrants
+Done p4est_coarsen with 64 total quadrants
+Into p4est_balance CORNER with 64 total quadrants
+Done p4est_balance with 64 total quadrants
+Into p4est_partition with 64 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 64 total quadrants, allowed level 29
+Done p4est_refine with 256 total quadrants
+Into p4est_coarsen with 256 total quadrants
+Done p4est_coarsen with 256 total quadrants
+Into p4est_balance CORNER with 256 total quadrants
+Done p4est_balance with 256 total quadrants
+Into p4est_partition with 256 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 256 total quadrants, allowed level 29
+Done p4est_refine with 1024 total quadrants
+Into p4est_coarsen with 1024 total quadrants
+Done p4est_coarsen with 1024 total quadrants
+Into p4est_balance CORNER with 1024 total quadrants
+Done p4est_balance with 1024 total quadrants
+Into p4est_partition with 1024 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1024 total quadrants, allowed level 29
+Done p4est_refine with 1966 total quadrants
+Into p4est_coarsen with 1966 total quadrants
+Done p4est_coarsen with 1966 total quadrants
+Into p4est_balance CORNER with 1966 total quadrants
+Done p4est_balance with 1966 total quadrants
+Into p4est_partition with 1966 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1966 total quadrants, allowed level 29
+Done p4est_refine with 3676 total quadrants
+Into p4est_coarsen with 3676 total quadrants
+Done p4est_coarsen with 3676 total quadrants
+Into p4est_balance CORNER with 3676 total quadrants
+Done p4est_balance with 3676 total quadrants
+Into p4est_partition with 3676 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 3676 total quadrants, allowed level 29
+Done p4est_refine with 7126 total quadrants
+Into p4est_coarsen with 7126 total quadrants
+Done p4est_coarsen with 7114 total quadrants
+Into p4est_balance CORNER with 7114 total quadrants
+Done p4est_balance with 7114 total quadrants
+Into p4est_partition with 7114 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+[18.1343162]
+Into p4est_new with min quadrants 0 level 0 uniform 1
+New p4est with 1 trees on 1 processors
+Initial level 0 potential global quadrants 1 per tree 1
+Done p4est_new with 1 total quadrants
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1 total quadrants, allowed level 29
+Done p4est_refine with 4 total quadrants
+Into p4est_coarsen with 4 total quadrants
+Done p4est_coarsen with 4 total quadrants
+Into p4est_balance CORNER with 4 total quadrants
+Done p4est_balance with 4 total quadrants
+Into p4est_partition with 4 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 4 total quadrants, allowed level 29
+Done p4est_refine with 16 total quadrants
+Into p4est_coarsen with 16 total quadrants
+Done p4est_coarsen with 16 total quadrants
+Into p4est_balance CORNER with 16 total quadrants
+Done p4est_balance with 16 total quadrants
+Into p4est_partition with 16 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 16 total quadrants, allowed level 29
+Done p4est_refine with 64 total quadrants
+Into p4est_coarsen with 64 total quadrants
+Done p4est_coarsen with 64 total quadrants
+Into p4est_balance CORNER with 64 total quadrants
+Done p4est_balance with 64 total quadrants
+Into p4est_partition with 64 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 64 total quadrants, allowed level 29
+Done p4est_refine with 256 total quadrants
+Into p4est_coarsen with 256 total quadrants
+Done p4est_coarsen with 256 total quadrants
+Into p4est_balance CORNER with 256 total quadrants
+Done p4est_balance with 256 total quadrants
+Into p4est_partition with 256 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 256 total quadrants, allowed level 29
+Done p4est_refine with 1024 total quadrants
+Into p4est_coarsen with 1024 total quadrants
+Done p4est_coarsen with 1024 total quadrants
+Into p4est_balance CORNER with 1024 total quadrants
+Done p4est_balance with 1024 total quadrants
+Into p4est_partition with 1024 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1024 total quadrants, allowed level 29
+Done p4est_refine with 1966 total quadrants
+Into p4est_coarsen with 1966 total quadrants
+Done p4est_coarsen with 1966 total quadrants
+Into p4est_balance CORNER with 1966 total quadrants
+Done p4est_balance with 1966 total quadrants
+Into p4est_partition with 1966 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1966 total quadrants, allowed level 29
+Done p4est_refine with 3676 total quadrants
+Into p4est_coarsen with 3676 total quadrants
+Done p4est_coarsen with 3676 total quadrants
+Into p4est_balance CORNER with 3676 total quadrants
+Done p4est_balance with 3676 total quadrants
+Into p4est_partition with 3676 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 3676 total quadrants, allowed level 29
+Done p4est_refine with 7126 total quadrants
+Into p4est_coarsen with 7126 total quadrants
+Done p4est_coarsen with 7114 total quadrants
+Into p4est_balance CORNER with 7114 total quadrants
+Done p4est_balance with 7114 total quadrants
+Into p4est_partition with 7114 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+[25.4555326]
+Into p4est_new with min quadrants 0 level 0 uniform 1
+New p4est with 1 trees on 1 processors
+Initial level 0 potential global quadrants 1 per tree 1
+Done p4est_new with 1 total quadrants
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1 total quadrants, allowed level 29
+Done p4est_refine with 4 total quadrants
+Into p4est_coarsen with 4 total quadrants
+Done p4est_coarsen with 4 total quadrants
+Into p4est_balance CORNER with 4 total quadrants
+Done p4est_balance with 4 total quadrants
+Into p4est_partition with 4 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 4 total quadrants, allowed level 29
+Done p4est_refine with 16 total quadrants
+Into p4est_coarsen with 16 total quadrants
+Done p4est_coarsen with 16 total quadrants
+Into p4est_balance CORNER with 16 total quadrants
+Done p4est_balance with 16 total quadrants
+Into p4est_partition with 16 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 16 total quadrants, allowed level 29
+Done p4est_refine with 64 total quadrants
+Into p4est_coarsen with 64 total quadrants
+Done p4est_coarsen with 64 total quadrants
+Into p4est_balance CORNER with 64 total quadrants
+Done p4est_balance with 64 total quadrants
+Into p4est_partition with 64 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 64 total quadrants, allowed level 29
+Done p4est_refine with 256 total quadrants
+Into p4est_coarsen with 256 total quadrants
+Done p4est_coarsen with 256 total quadrants
+Into p4est_balance CORNER with 256 total quadrants
+Done p4est_balance with 256 total quadrants
+Into p4est_partition with 256 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 256 total quadrants, allowed level 29
+Done p4est_refine with 1024 total quadrants
+Into p4est_coarsen with 1024 total quadrants
+Done p4est_coarsen with 1024 total quadrants
+Into p4est_balance CORNER with 1024 total quadrants
+Done p4est_balance with 1024 total quadrants
+Into p4est_partition with 1024 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1024 total quadrants, allowed level 29
+Done p4est_refine with 1966 total quadrants
+Into p4est_coarsen with 1966 total quadrants
+Done p4est_coarsen with 1966 total quadrants
+Into p4est_balance CORNER with 1966 total quadrants
+Done p4est_balance with 1966 total quadrants
+Into p4est_partition with 1966 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1966 total quadrants, allowed level 29
+Done p4est_refine with 3676 total quadrants
+Into p4est_coarsen with 3676 total quadrants
+Done p4est_coarsen with 3676 total quadrants
+Into p4est_balance CORNER with 3676 total quadrants
+Done p4est_balance with 3676 total quadrants
+Into p4est_partition with 3676 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 3676 total quadrants, allowed level 29
+Done p4est_refine with 7126 total quadrants
+Into p4est_coarsen with 7126 total quadrants
+Done p4est_coarsen with 7114 total quadrants
+Into p4est_balance CORNER with 7114 total quadrants
+Done p4est_balance with 7114 total quadrants
+Into p4est_partition with 7114 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+[21.1308293]
+Into p4est_new with min quadrants 0 level 0 uniform 1
+New p4est with 1 trees on 1 processors
+Initial level 0 potential global quadrants 1 per tree 1
+Done p4est_new with 1 total quadrants
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1 total quadrants, allowed level 29
+Done p4est_refine with 4 total quadrants
+Into p4est_coarsen with 4 total quadrants
+Done p4est_coarsen with 4 total quadrants
+Into p4est_balance CORNER with 4 total quadrants
+Done p4est_balance with 4 total quadrants
+Into p4est_partition with 4 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 4 total quadrants, allowed level 29
+Done p4est_refine with 16 total quadrants
+Into p4est_coarsen with 16 total quadrants
+Done p4est_coarsen with 16 total quadrants
+Into p4est_balance CORNER with 16 total quadrants
+Done p4est_balance with 16 total quadrants
+Into p4est_partition with 16 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 16 total quadrants, allowed level 29
+Done p4est_refine with 64 total quadrants
+Into p4est_coarsen with 64 total quadrants
+Done p4est_coarsen with 64 total quadrants
+Into p4est_balance CORNER with 64 total quadrants
+Done p4est_balance with 64 total quadrants
+Into p4est_partition with 64 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 64 total quadrants, allowed level 29
+Done p4est_refine with 256 total quadrants
+Into p4est_coarsen with 256 total quadrants
+Done p4est_coarsen with 256 total quadrants
+Into p4est_balance CORNER with 256 total quadrants
+Done p4est_balance with 256 total quadrants
+Into p4est_partition with 256 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 256 total quadrants, allowed level 29
+Done p4est_refine with 1024 total quadrants
+Into p4est_coarsen with 1024 total quadrants
+Done p4est_coarsen with 1024 total quadrants
+Into p4est_balance CORNER with 1024 total quadrants
+Done p4est_balance with 1024 total quadrants
+Into p4est_partition with 1024 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1024 total quadrants, allowed level 29
+Done p4est_refine with 1966 total quadrants
+Into p4est_coarsen with 1966 total quadrants
+Done p4est_coarsen with 1966 total quadrants
+Into p4est_balance CORNER with 1966 total quadrants
+Done p4est_balance with 1966 total quadrants
+Into p4est_partition with 1966 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1966 total quadrants, allowed level 29
+Done p4est_refine with 3676 total quadrants
+Into p4est_coarsen with 3676 total quadrants
+Done p4est_coarsen with 3676 total quadrants
+Into p4est_balance CORNER with 3676 total quadrants
+Done p4est_balance with 3676 total quadrants
+Into p4est_partition with 3676 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 3676 total quadrants, allowed level 29
+Done p4est_refine with 7126 total quadrants
+Into p4est_coarsen with 7126 total quadrants
+Done p4est_coarsen with 7114 total quadrants
+Into p4est_balance CORNER with 7114 total quadrants
+Done p4est_balance with 7114 total quadrants
+Into p4est_partition with 7114 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+[29.1139866]
+Into p4est_new with min quadrants 0 level 0 uniform 1
+New p4est with 1 trees on 1 processors
+Initial level 0 potential global quadrants 1 per tree 1
+Done p4est_new with 1 total quadrants
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1 total quadrants, allowed level 29
+Done p4est_refine with 4 total quadrants
+Into p4est_coarsen with 4 total quadrants
+Done p4est_coarsen with 4 total quadrants
+Into p4est_balance CORNER with 4 total quadrants
+Done p4est_balance with 4 total quadrants
+Into p4est_partition with 4 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 4 total quadrants, allowed level 29
+Done p4est_refine with 16 total quadrants
+Into p4est_coarsen with 16 total quadrants
+Done p4est_coarsen with 16 total quadrants
+Into p4est_balance CORNER with 16 total quadrants
+Done p4est_balance with 16 total quadrants
+Into p4est_partition with 16 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 16 total quadrants, allowed level 29
+Done p4est_refine with 64 total quadrants
+Into p4est_coarsen with 64 total quadrants
+Done p4est_coarsen with 64 total quadrants
+Into p4est_balance CORNER with 64 total quadrants
+Done p4est_balance with 64 total quadrants
+Into p4est_partition with 64 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 64 total quadrants, allowed level 29
+Done p4est_refine with 256 total quadrants
+Into p4est_coarsen with 256 total quadrants
+Done p4est_coarsen with 256 total quadrants
+Into p4est_balance CORNER with 256 total quadrants
+Done p4est_balance with 256 total quadrants
+Into p4est_partition with 256 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 256 total quadrants, allowed level 29
+Done p4est_refine with 1024 total quadrants
+Into p4est_coarsen with 1024 total quadrants
+Done p4est_coarsen with 1024 total quadrants
+Into p4est_balance CORNER with 1024 total quadrants
+Done p4est_balance with 1024 total quadrants
+Into p4est_partition with 1024 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1024 total quadrants, allowed level 29
+Done p4est_refine with 1966 total quadrants
+Into p4est_coarsen with 1966 total quadrants
+Done p4est_coarsen with 1966 total quadrants
+Into p4est_balance CORNER with 1966 total quadrants
+Done p4est_balance with 1966 total quadrants
+Into p4est_partition with 1966 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1966 total quadrants, allowed level 29
+Done p4est_refine with 3676 total quadrants
+Into p4est_coarsen with 3676 total quadrants
+Done p4est_coarsen with 3676 total quadrants
+Into p4est_balance CORNER with 3676 total quadrants
+Done p4est_balance with 3676 total quadrants
+Into p4est_partition with 3676 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 3676 total quadrants, allowed level 29
+Done p4est_refine with 7126 total quadrants
+Into p4est_coarsen with 7126 total quadrants
+Done p4est_coarsen with 7114 total quadrants
+Into p4est_balance CORNER with 7114 total quadrants
+Done p4est_balance with 7114 total quadrants
+Into p4est_partition with 7114 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+[20.1627247]
+Into p4est_new with min quadrants 0 level 0 uniform 1
+New p4est with 1 trees on 1 processors
+Initial level 0 potential global quadrants 1 per tree 1
+Done p4est_new with 1 total quadrants
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1 total quadrants, allowed level 29
+Done p4est_refine with 4 total quadrants
+Into p4est_coarsen with 4 total quadrants
+Done p4est_coarsen with 4 total quadrants
+Into p4est_balance CORNER with 4 total quadrants
+Done p4est_balance with 4 total quadrants
+Into p4est_partition with 4 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 4 total quadrants, allowed level 29
+Done p4est_refine with 16 total quadrants
+Into p4est_coarsen with 16 total quadrants
+Done p4est_coarsen with 16 total quadrants
+Into p4est_balance CORNER with 16 total quadrants
+Done p4est_balance with 16 total quadrants
+Into p4est_partition with 16 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 16 total quadrants, allowed level 29
+Done p4est_refine with 64 total quadrants
+Into p4est_coarsen with 64 total quadrants
+Done p4est_coarsen with 64 total quadrants
+Into p4est_balance CORNER with 64 total quadrants
+Done p4est_balance with 64 total quadrants
+Into p4est_partition with 64 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 64 total quadrants, allowed level 29
+Done p4est_refine with 256 total quadrants
+Into p4est_coarsen with 256 total quadrants
+Done p4est_coarsen with 256 total quadrants
+Into p4est_balance CORNER with 256 total quadrants
+Done p4est_balance with 256 total quadrants
+Into p4est_partition with 256 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 256 total quadrants, allowed level 29
+Done p4est_refine with 1024 total quadrants
+Into p4est_coarsen with 1024 total quadrants
+Done p4est_coarsen with 1024 total quadrants
+Into p4est_balance CORNER with 1024 total quadrants
+Done p4est_balance with 1024 total quadrants
+Into p4est_partition with 1024 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1024 total quadrants, allowed level 29
+Done p4est_refine with 1966 total quadrants
+Into p4est_coarsen with 1966 total quadrants
+Done p4est_coarsen with 1966 total quadrants
+Into p4est_balance CORNER with 1966 total quadrants
+Done p4est_balance with 1966 total quadrants
+Into p4est_partition with 1966 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1966 total quadrants, allowed level 29
+Done p4est_refine with 3676 total quadrants
+Into p4est_coarsen with 3676 total quadrants
+Done p4est_coarsen with 3676 total quadrants
+Into p4est_balance CORNER with 3676 total quadrants
+Done p4est_balance with 3676 total quadrants
+Into p4est_partition with 3676 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 3676 total quadrants, allowed level 29
+Done p4est_refine with 7126 total quadrants
+Into p4est_coarsen with 7126 total quadrants
+Done p4est_coarsen with 7114 total quadrants
+Into p4est_balance CORNER with 7114 total quadrants
+Done p4est_balance with 7114 total quadrants
+Into p4est_partition with 7114 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+[26.8816339]
+Into p4est_new with min quadrants 0 level 0 uniform 1
+New p4est with 1 trees on 1 processors
+Initial level 0 potential global quadrants 1 per tree 1
+Done p4est_new with 1 total quadrants
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1 total quadrants, allowed level 29
+Done p4est_refine with 4 total quadrants
+Into p4est_coarsen with 4 total quadrants
+Done p4est_coarsen with 4 total quadrants
+Into p4est_balance CORNER with 4 total quadrants
+Done p4est_balance with 4 total quadrants
+Into p4est_partition with 4 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 4 total quadrants, allowed level 29
+Done p4est_refine with 16 total quadrants
+Into p4est_coarsen with 16 total quadrants
+Done p4est_coarsen with 16 total quadrants
+Into p4est_balance CORNER with 16 total quadrants
+Done p4est_balance with 16 total quadrants
+Into p4est_partition with 16 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 16 total quadrants, allowed level 29
+Done p4est_refine with 64 total quadrants
+Into p4est_coarsen with 64 total quadrants
+Done p4est_coarsen with 64 total quadrants
+Into p4est_balance CORNER with 64 total quadrants
+Done p4est_balance with 64 total quadrants
+Into p4est_partition with 64 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 64 total quadrants, allowed level 29
+Done p4est_refine with 256 total quadrants
+Into p4est_coarsen with 256 total quadrants
+Done p4est_coarsen with 256 total quadrants
+Into p4est_balance CORNER with 256 total quadrants
+Done p4est_balance with 256 total quadrants
+Into p4est_partition with 256 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 256 total quadrants, allowed level 29
+Done p4est_refine with 1024 total quadrants
+Into p4est_coarsen with 1024 total quadrants
+Done p4est_coarsen with 1024 total quadrants
+Into p4est_balance CORNER with 1024 total quadrants
+Done p4est_balance with 1024 total quadrants
+Into p4est_partition with 1024 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1024 total quadrants, allowed level 29
+Done p4est_refine with 1966 total quadrants
+Into p4est_coarsen with 1966 total quadrants
+Done p4est_coarsen with 1966 total quadrants
+Into p4est_balance CORNER with 1966 total quadrants
+Done p4est_balance with 1966 total quadrants
+Into p4est_partition with 1966 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1966 total quadrants, allowed level 29
+Done p4est_refine with 3676 total quadrants
+Into p4est_coarsen with 3676 total quadrants
+Done p4est_coarsen with 3676 total quadrants
+Into p4est_balance CORNER with 3676 total quadrants
+Done p4est_balance with 3676 total quadrants
+Into p4est_partition with 3676 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 3676 total quadrants, allowed level 29
+Done p4est_refine with 7126 total quadrants
+Into p4est_coarsen with 7126 total quadrants
+Done p4est_coarsen with 7114 total quadrants
+Into p4est_balance CORNER with 7114 total quadrants
+Done p4est_balance with 7114 total quadrants
+Into p4est_partition with 7114 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+[22.1912897]
+Into p4est_new with min quadrants 0 level 0 uniform 1
+New p4est with 1 trees on 1 processors
+Initial level 0 potential global quadrants 1 per tree 1
+Done p4est_new with 1 total quadrants
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1 total quadrants, allowed level 29
+Done p4est_refine with 4 total quadrants
+Into p4est_coarsen with 4 total quadrants
+Done p4est_coarsen with 4 total quadrants
+Into p4est_balance CORNER with 4 total quadrants
+Done p4est_balance with 4 total quadrants
+Into p4est_partition with 4 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 4 total quadrants, allowed level 29
+Done p4est_refine with 16 total quadrants
+Into p4est_coarsen with 16 total quadrants
+Done p4est_coarsen with 16 total quadrants
+Into p4est_balance CORNER with 16 total quadrants
+Done p4est_balance with 16 total quadrants
+Into p4est_partition with 16 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 16 total quadrants, allowed level 29
+Done p4est_refine with 64 total quadrants
+Into p4est_coarsen with 64 total quadrants
+Done p4est_coarsen with 64 total quadrants
+Into p4est_balance CORNER with 64 total quadrants
+Done p4est_balance with 64 total quadrants
+Into p4est_partition with 64 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 64 total quadrants, allowed level 29
+Done p4est_refine with 256 total quadrants
+Into p4est_coarsen with 256 total quadrants
+Done p4est_coarsen with 256 total quadrants
+Into p4est_balance CORNER with 256 total quadrants
+Done p4est_balance with 256 total quadrants
+Into p4est_partition with 256 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 256 total quadrants, allowed level 29
+Done p4est_refine with 1024 total quadrants
+Into p4est_coarsen with 1024 total quadrants
+Done p4est_coarsen with 1024 total quadrants
+Into p4est_balance CORNER with 1024 total quadrants
+Done p4est_balance with 1024 total quadrants
+Into p4est_partition with 1024 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1024 total quadrants, allowed level 29
+Done p4est_refine with 1966 total quadrants
+Into p4est_coarsen with 1966 total quadrants
+Done p4est_coarsen with 1966 total quadrants
+Into p4est_balance CORNER with 1966 total quadrants
+Done p4est_balance with 1966 total quadrants
+Into p4est_partition with 1966 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1966 total quadrants, allowed level 29
+Done p4est_refine with 3676 total quadrants
+Into p4est_coarsen with 3676 total quadrants
+Done p4est_coarsen with 3676 total quadrants
+Into p4est_balance CORNER with 3676 total quadrants
+Done p4est_balance with 3676 total quadrants
+Into p4est_partition with 3676 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 3676 total quadrants, allowed level 29
+Done p4est_refine with 7126 total quadrants
+Into p4est_coarsen with 7126 total quadrants
+Done p4est_coarsen with 7114 total quadrants
+Into p4est_balance CORNER with 7114 total quadrants
+Done p4est_balance with 7114 total quadrants
+Into p4est_partition with 7114 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+[17.964448]
+Into p4est_new with min quadrants 0 level 0 uniform 1
+New p4est with 1 trees on 1 processors
+Initial level 0 potential global quadrants 1 per tree 1
+Done p4est_new with 1 total quadrants
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1 total quadrants, allowed level 29
+Done p4est_refine with 4 total quadrants
+Into p4est_coarsen with 4 total quadrants
+Done p4est_coarsen with 4 total quadrants
+Into p4est_balance CORNER with 4 total quadrants
+Done p4est_balance with 4 total quadrants
+Into p4est_partition with 4 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 4 total quadrants, allowed level 29
+Done p4est_refine with 16 total quadrants
+Into p4est_coarsen with 16 total quadrants
+Done p4est_coarsen with 16 total quadrants
+Into p4est_balance CORNER with 16 total quadrants
+Done p4est_balance with 16 total quadrants
+Into p4est_partition with 16 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 16 total quadrants, allowed level 29
+Done p4est_refine with 64 total quadrants
+Into p4est_coarsen with 64 total quadrants
+Done p4est_coarsen with 64 total quadrants
+Into p4est_balance CORNER with 64 total quadrants
+Done p4est_balance with 64 total quadrants
+Into p4est_partition with 64 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 64 total quadrants, allowed level 29
+Done p4est_refine with 256 total quadrants
+Into p4est_coarsen with 256 total quadrants
+Done p4est_coarsen with 256 total quadrants
+Into p4est_balance CORNER with 256 total quadrants
+Done p4est_balance with 256 total quadrants
+Into p4est_partition with 256 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 256 total quadrants, allowed level 29
+Done p4est_refine with 1024 total quadrants
+Into p4est_coarsen with 1024 total quadrants
+Done p4est_coarsen with 1024 total quadrants
+Into p4est_balance CORNER with 1024 total quadrants
+Done p4est_balance with 1024 total quadrants
+Into p4est_partition with 1024 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1024 total quadrants, allowed level 29
+Done p4est_refine with 1966 total quadrants
+Into p4est_coarsen with 1966 total quadrants
+Done p4est_coarsen with 1966 total quadrants
+Into p4est_balance CORNER with 1966 total quadrants
+Done p4est_balance with 1966 total quadrants
+Into p4est_partition with 1966 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1966 total quadrants, allowed level 29
+Done p4est_refine with 3676 total quadrants
+Into p4est_coarsen with 3676 total quadrants
+Done p4est_coarsen with 3676 total quadrants
+Into p4est_balance CORNER with 3676 total quadrants
+Done p4est_balance with 3676 total quadrants
+Into p4est_partition with 3676 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 3676 total quadrants, allowed level 29
+Done p4est_refine with 7126 total quadrants
+Into p4est_coarsen with 7126 total quadrants
+Done p4est_coarsen with 7114 total quadrants
+Into p4est_balance CORNER with 7114 total quadrants
+Done p4est_balance with 7114 total quadrants
+Into p4est_partition with 7114 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+[17.8752314]
+Into p4est_new with min quadrants 0 level 0 uniform 1
+New p4est with 1 trees on 1 processors
+Initial level 0 potential global quadrants 1 per tree 1
+Done p4est_new with 1 total quadrants
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1 total quadrants, allowed level 29
+Done p4est_refine with 4 total quadrants
+Into p4est_coarsen with 4 total quadrants
+Done p4est_coarsen with 4 total quadrants
+Into p4est_balance CORNER with 4 total quadrants
+Done p4est_balance with 4 total quadrants
+Into p4est_partition with 4 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 4 total quadrants, allowed level 29
+Done p4est_refine with 16 total quadrants
+Into p4est_coarsen with 16 total quadrants
+Done p4est_coarsen with 16 total quadrants
+Into p4est_balance CORNER with 16 total quadrants
+Done p4est_balance with 16 total quadrants
+Into p4est_partition with 16 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 16 total quadrants, allowed level 29
+Done p4est_refine with 64 total quadrants
+Into p4est_coarsen with 64 total quadrants
+Done p4est_coarsen with 64 total quadrants
+Into p4est_balance CORNER with 64 total quadrants
+Done p4est_balance with 64 total quadrants
+Into p4est_partition with 64 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 64 total quadrants, allowed level 29
+Done p4est_refine with 256 total quadrants
+Into p4est_coarsen with 256 total quadrants
+Done p4est_coarsen with 256 total quadrants
+Into p4est_balance CORNER with 256 total quadrants
+Done p4est_balance with 256 total quadrants
+Into p4est_partition with 256 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 256 total quadrants, allowed level 29
+Done p4est_refine with 1024 total quadrants
+Into p4est_coarsen with 1024 total quadrants
+Done p4est_coarsen with 1024 total quadrants
+Into p4est_balance CORNER with 1024 total quadrants
+Done p4est_balance with 1024 total quadrants
+Into p4est_partition with 1024 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1024 total quadrants, allowed level 29
+Done p4est_refine with 1966 total quadrants
+Into p4est_coarsen with 1966 total quadrants
+Done p4est_coarsen with 1966 total quadrants
+Into p4est_balance CORNER with 1966 total quadrants
+Done p4est_balance with 1966 total quadrants
+Into p4est_partition with 1966 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1966 total quadrants, allowed level 29
+Done p4est_refine with 3676 total quadrants
+Into p4est_coarsen with 3676 total quadrants
+Done p4est_coarsen with 3676 total quadrants
+Into p4est_balance CORNER with 3676 total quadrants
+Done p4est_balance with 3676 total quadrants
+Into p4est_partition with 3676 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 3676 total quadrants, allowed level 29
+Done p4est_refine with 7126 total quadrants
+Into p4est_coarsen with 7126 total quadrants
+Done p4est_coarsen with 7114 total quadrants
+Into p4est_balance CORNER with 7114 total quadrants
+Done p4est_balance with 7114 total quadrants
+Into p4est_partition with 7114 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+[18.1465676]
+Into p4est_new with min quadrants 0 level 0 uniform 1
+New p4est with 1 trees on 1 processors
+Initial level 0 potential global quadrants 1 per tree 1
+Done p4est_new with 1 total quadrants
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1 total quadrants, allowed level 29
+Done p4est_refine with 4 total quadrants
+Into p4est_coarsen with 4 total quadrants
+Done p4est_coarsen with 4 total quadrants
+Into p4est_balance CORNER with 4 total quadrants
+Done p4est_balance with 4 total quadrants
+Into p4est_partition with 4 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 4 total quadrants, allowed level 29
+Done p4est_refine with 16 total quadrants
+Into p4est_coarsen with 16 total quadrants
+Done p4est_coarsen with 16 total quadrants
+Into p4est_balance CORNER with 16 total quadrants
+Done p4est_balance with 16 total quadrants
+Into p4est_partition with 16 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 16 total quadrants, allowed level 29
+Done p4est_refine with 64 total quadrants
+Into p4est_coarsen with 64 total quadrants
+Done p4est_coarsen with 64 total quadrants
+Into p4est_balance CORNER with 64 total quadrants
+Done p4est_balance with 64 total quadrants
+Into p4est_partition with 64 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 64 total quadrants, allowed level 29
+Done p4est_refine with 256 total quadrants
+Into p4est_coarsen with 256 total quadrants
+Done p4est_coarsen with 256 total quadrants
+Into p4est_balance CORNER with 256 total quadrants
+Done p4est_balance with 256 total quadrants
+Into p4est_partition with 256 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 256 total quadrants, allowed level 29
+Done p4est_refine with 1024 total quadrants
+Into p4est_coarsen with 1024 total quadrants
+Done p4est_coarsen with 1024 total quadrants
+Into p4est_balance CORNER with 1024 total quadrants
+Done p4est_balance with 1024 total quadrants
+Into p4est_partition with 1024 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1024 total quadrants, allowed level 29
+Done p4est_refine with 1966 total quadrants
+Into p4est_coarsen with 1966 total quadrants
+Done p4est_coarsen with 1966 total quadrants
+Into p4est_balance CORNER with 1966 total quadrants
+Done p4est_balance with 1966 total quadrants
+Into p4est_partition with 1966 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1966 total quadrants, allowed level 29
+Done p4est_refine with 3676 total quadrants
+Into p4est_coarsen with 3676 total quadrants
+Done p4est_coarsen with 3676 total quadrants
+Into p4est_balance CORNER with 3676 total quadrants
+Done p4est_balance with 3676 total quadrants
+Into p4est_partition with 3676 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 3676 total quadrants, allowed level 29
+Done p4est_refine with 7126 total quadrants
+Into p4est_coarsen with 7126 total quadrants
+Done p4est_coarsen with 7114 total quadrants
+Into p4est_balance CORNER with 7114 total quadrants
+Done p4est_balance with 7114 total quadrants
+Into p4est_partition with 7114 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+[17.7015185]
+Into p4est_new with min quadrants 0 level 0 uniform 1
+New p4est with 1 trees on 1 processors
+Initial level 0 potential global quadrants 1 per tree 1
+Done p4est_new with 1 total quadrants
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1 total quadrants, allowed level 29
+Done p4est_refine with 4 total quadrants
+Into p4est_coarsen with 4 total quadrants
+Done p4est_coarsen with 4 total quadrants
+Into p4est_balance CORNER with 4 total quadrants
+Done p4est_balance with 4 total quadrants
+Into p4est_partition with 4 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 4 total quadrants, allowed level 29
+Done p4est_refine with 16 total quadrants
+Into p4est_coarsen with 16 total quadrants
+Done p4est_coarsen with 16 total quadrants
+Into p4est_balance CORNER with 16 total quadrants
+Done p4est_balance with 16 total quadrants
+Into p4est_partition with 16 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 16 total quadrants, allowed level 29
+Done p4est_refine with 64 total quadrants
+Into p4est_coarsen with 64 total quadrants
+Done p4est_coarsen with 64 total quadrants
+Into p4est_balance CORNER with 64 total quadrants
+Done p4est_balance with 64 total quadrants
+Into p4est_partition with 64 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 64 total quadrants, allowed level 29
+Done p4est_refine with 256 total quadrants
+Into p4est_coarsen with 256 total quadrants
+Done p4est_coarsen with 256 total quadrants
+Into p4est_balance CORNER with 256 total quadrants
+Done p4est_balance with 256 total quadrants
+Into p4est_partition with 256 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 256 total quadrants, allowed level 29
+Done p4est_refine with 1024 total quadrants
+Into p4est_coarsen with 1024 total quadrants
+Done p4est_coarsen with 1024 total quadrants
+Into p4est_balance CORNER with 1024 total quadrants
+Done p4est_balance with 1024 total quadrants
+Into p4est_partition with 1024 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1024 total quadrants, allowed level 29
+Done p4est_refine with 1966 total quadrants
+Into p4est_coarsen with 1966 total quadrants
+Done p4est_coarsen with 1966 total quadrants
+Into p4est_balance CORNER with 1966 total quadrants
+Done p4est_balance with 1966 total quadrants
+Into p4est_partition with 1966 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1966 total quadrants, allowed level 29
+Done p4est_refine with 3676 total quadrants
+Into p4est_coarsen with 3676 total quadrants
+Done p4est_coarsen with 3676 total quadrants
+Into p4est_balance CORNER with 3676 total quadrants
+Done p4est_balance with 3676 total quadrants
+Into p4est_partition with 3676 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 3676 total quadrants, allowed level 29
+Done p4est_refine with 7126 total quadrants
+Into p4est_coarsen with 7126 total quadrants
+Done p4est_coarsen with 7114 total quadrants
+Into p4est_balance CORNER with 7114 total quadrants
+Done p4est_balance with 7114 total quadrants
+Into p4est_partition with 7114 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+[19.3536329]
+Into p4est_new with min quadrants 0 level 0 uniform 1
+New p4est with 1 trees on 1 processors
+Initial level 0 potential global quadrants 1 per tree 1
+Done p4est_new with 1 total quadrants
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1 total quadrants, allowed level 29
+Done p4est_refine with 4 total quadrants
+Into p4est_coarsen with 4 total quadrants
+Done p4est_coarsen with 4 total quadrants
+Into p4est_balance CORNER with 4 total quadrants
+Done p4est_balance with 4 total quadrants
+Into p4est_partition with 4 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 4 total quadrants, allowed level 29
+Done p4est_refine with 16 total quadrants
+Into p4est_coarsen with 16 total quadrants
+Done p4est_coarsen with 16 total quadrants
+Into p4est_balance CORNER with 16 total quadrants
+Done p4est_balance with 16 total quadrants
+Into p4est_partition with 16 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 16 total quadrants, allowed level 29
+Done p4est_refine with 64 total quadrants
+Into p4est_coarsen with 64 total quadrants
+Done p4est_coarsen with 64 total quadrants
+Into p4est_balance CORNER with 64 total quadrants
+Done p4est_balance with 64 total quadrants
+Into p4est_partition with 64 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 64 total quadrants, allowed level 29
+Done p4est_refine with 256 total quadrants
+Into p4est_coarsen with 256 total quadrants
+Done p4est_coarsen with 256 total quadrants
+Into p4est_balance CORNER with 256 total quadrants
+Done p4est_balance with 256 total quadrants
+Into p4est_partition with 256 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 256 total quadrants, allowed level 29
+Done p4est_refine with 1024 total quadrants
+Into p4est_coarsen with 1024 total quadrants
+Done p4est_coarsen with 1024 total quadrants
+Into p4est_balance CORNER with 1024 total quadrants
+Done p4est_balance with 1024 total quadrants
+Into p4est_partition with 1024 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1024 total quadrants, allowed level 29
+Done p4est_refine with 1966 total quadrants
+Into p4est_coarsen with 1966 total quadrants
+Done p4est_coarsen with 1966 total quadrants
+Into p4est_balance CORNER with 1966 total quadrants
+Done p4est_balance with 1966 total quadrants
+Into p4est_partition with 1966 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1966 total quadrants, allowed level 29
+Done p4est_refine with 3676 total quadrants
+Into p4est_coarsen with 3676 total quadrants
+Done p4est_coarsen with 3676 total quadrants
+Into p4est_balance CORNER with 3676 total quadrants
+Done p4est_balance with 3676 total quadrants
+Into p4est_partition with 3676 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 3676 total quadrants, allowed level 29
+Done p4est_refine with 7126 total quadrants
+Into p4est_coarsen with 7126 total quadrants
+Done p4est_coarsen with 7114 total quadrants
+Into p4est_balance CORNER with 7114 total quadrants
+Done p4est_balance with 7114 total quadrants
+Into p4est_partition with 7114 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+[17.7896547]
+Into p4est_new with min quadrants 0 level 0 uniform 1
+New p4est with 1 trees on 1 processors
+Initial level 0 potential global quadrants 1 per tree 1
+Done p4est_new with 1 total quadrants
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1 total quadrants, allowed level 29
+Done p4est_refine with 4 total quadrants
+Into p4est_coarsen with 4 total quadrants
+Done p4est_coarsen with 4 total quadrants
+Into p4est_balance CORNER with 4 total quadrants
+Done p4est_balance with 4 total quadrants
+Into p4est_partition with 4 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 4 total quadrants, allowed level 29
+Done p4est_refine with 16 total quadrants
+Into p4est_coarsen with 16 total quadrants
+Done p4est_coarsen with 16 total quadrants
+Into p4est_balance CORNER with 16 total quadrants
+Done p4est_balance with 16 total quadrants
+Into p4est_partition with 16 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 16 total quadrants, allowed level 29
+Done p4est_refine with 64 total quadrants
+Into p4est_coarsen with 64 total quadrants
+Done p4est_coarsen with 64 total quadrants
+Into p4est_balance CORNER with 64 total quadrants
+Done p4est_balance with 64 total quadrants
+Into p4est_partition with 64 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 64 total quadrants, allowed level 29
+Done p4est_refine with 256 total quadrants
+Into p4est_coarsen with 256 total quadrants
+Done p4est_coarsen with 256 total quadrants
+Into p4est_balance CORNER with 256 total quadrants
+Done p4est_balance with 256 total quadrants
+Into p4est_partition with 256 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 256 total quadrants, allowed level 29
+Done p4est_refine with 1024 total quadrants
+Into p4est_coarsen with 1024 total quadrants
+Done p4est_coarsen with 1024 total quadrants
+Into p4est_balance CORNER with 1024 total quadrants
+Done p4est_balance with 1024 total quadrants
+Into p4est_partition with 1024 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1024 total quadrants, allowed level 29
+Done p4est_refine with 1966 total quadrants
+Into p4est_coarsen with 1966 total quadrants
+Done p4est_coarsen with 1966 total quadrants
+Into p4est_balance CORNER with 1966 total quadrants
+Done p4est_balance with 1966 total quadrants
+Into p4est_partition with 1966 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 1966 total quadrants, allowed level 29
+Done p4est_refine with 3676 total quadrants
+Into p4est_coarsen with 3676 total quadrants
+Done p4est_coarsen with 3676 total quadrants
+Into p4est_balance CORNER with 3676 total quadrants
+Done p4est_balance with 3676 total quadrants
+Into p4est_partition with 3676 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+Into p4est_refine with 3676 total quadrants, allowed level 29
+Done p4est_refine with 7126 total quadrants
+Into p4est_coarsen with 7126 total quadrants
+Done p4est_coarsen with 7114 total quadrants
+Into p4est_balance CORNER with 7114 total quadrants
+Done p4est_balance with 7114 total quadrants
+Into p4est_partition with 7114 total quadrants
+Done p4est_partition no shipping
+Into p4est_ghost_new CORNER
+Done p4est_ghost_new
+[17.4210901]

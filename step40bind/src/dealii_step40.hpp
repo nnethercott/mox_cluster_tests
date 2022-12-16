@@ -239,27 +239,12 @@ namespace Step40
 
     SolverControl solver_control(dof_handler.n_dofs(), 1e-12);
 
-#ifdef USE_PETSC_LA
-    LA::SolverCG solver(solver_control, mpi_communicator);
-#else
-    LA::SolverCG solver(solver_control);
-#endif
+    TrilinosWrappers::SolverGMRES linear_solver(solver_control);
+    TrilinosWrappers::PreconditionBlockJacobi preconditioner;
 
-    LA::MPI::PreconditionAMG preconditioner;
+    preconditioner.initialize(system_matrix);
+    linear_solver.solve(system_matrix, completely_distributed_solution, system_rhs, preconditioner);
 
-    LA::MPI::PreconditionAMG::AdditionalData data;
-
-#ifdef USE_PETSC_LA
-    data.symmetric_operator = true;
-#else
-    /* Trilinos defaults are good */
-#endif
-    preconditioner.initialize(system_matrix, data);
-
-    solver.solve(system_matrix,
-                 completely_distributed_solution,
-                 system_rhs,
-                 preconditioner);
 
     //pcout << "   Solved in " << solver_control.last_step() << " iterations."<< std::endl;
 

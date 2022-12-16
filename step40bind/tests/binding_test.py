@@ -1,9 +1,9 @@
 import sys
-sys.path.insert(1, '/mnt/c/Users/naten/pyfex/nate/mox_cluster_tests/step40bind/build')
+sys.path.insert(1, '/root/lifex_mnt/mox_cluster_tests/step40bind/build')
 import LaplaceProblem as lp
 import numpy as np
 
-num_cycles = 5
+num_cycles = 3
 
 from mpi4py import MPI
 comm = MPI.COMM_WORLD

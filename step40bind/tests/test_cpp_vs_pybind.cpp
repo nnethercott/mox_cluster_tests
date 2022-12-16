@@ -13,7 +13,7 @@ int main(int argc, char *argv[]){
   Step40::LaplaceProblem<2> l;
 
   //--------------------- simulation ----------------------------------
-  int num_cycles = 5;
+  int num_cycles = 3;
   auto t1 = std::chrono::high_resolution_clock::now();
 
   l.setup_grid();

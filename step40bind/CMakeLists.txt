@@ -17,7 +17,7 @@ deal_ii_initialize_cached_variables()
 ################### pybind11 ##################################
 include_directories(SYSTEM pybind11/include)
 include_directories(SYSTEM $ENV{mkPythonInc})
-add_subdirectory(/mnt/c/Users/naten/pyfex/pybind11 ../)
+add_subdirectory(/root/lifex_mnt/pyfex/pybind11 ../)
 set(PYBIND11_LTO_CXX_FLAGS "OFF" CACHE INTERNAL "")
 set(PYBIND11_LTO_LINKER_FLAGS "OFF" CACHE INTERNAL "")
 
