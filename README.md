@@ -1,2 +1,2 @@
 # mox_cluster_tests
-collection of subfolders for tests i want to run on the mox cluster 
+miscellaneous collection of tests for APCS project to run on MOX cluster 
