@@ -14,6 +14,7 @@ rank = comm.Get_rank()
 import argparse
 parser = argparse.ArgumentParser(description='A convenient way to modify sim params externally')
 parser.add_argument('-r', "--refinement_reaction_diffusion", help="Specify mesh granularity", default=4)
+parser.add_argument('-i', "--iters", help="Control number of iterations", default=5)
 
 args = parser.parse_args()
 
